@@ -1,0 +1,63 @@
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Kokoavatehtava.exe.config
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Kokoavatehtava.exe
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Kokoavatehtava.pdb
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csprojAssemblyReference.cache
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\MainWindow.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\App.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava_MarkupCompile.cache
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava_MarkupCompile.lref
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\MainWindow.baml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.g.resources
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.Properties.Resources.resources
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.GenerateResource.cache
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.CoreCompileInputs.cache
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.exe
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.pdb
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.CopyComplete
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Piirtoikkuna.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Piirtoikkuna.baml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Animaatioikkuna.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Animaatioikkuna.baml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Matikkaikkuna.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Matikkaikkuna.baml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Lukuikkuna.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Lukuikkuna.baml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Notepad.g.cs
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Notepad.baml
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\fi-FI\Kokoavatehtava.resources.dll
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\fi-FI\Kokoavatehtava.resources.dll
+C:\Users\Aleksanteri\Documents\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.Properties.Resources.fi-FI.resources
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Kokoavatehtava.exe.config
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Kokoavatehtava.exe
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Kokoavatehtava.pdb
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\fi-FI\Kokoavatehtava.resources.dll
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Newtonsoft.Json.dll
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\bin\Debug\Newtonsoft.Json.xml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.AssemblyReference.cache
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Animaatioikkuna.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Lukuikkuna.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\MainWindow.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Matikkaikkuna.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Notepad.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Piirtoikkuna.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\App.g.cs
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava_MarkupCompile.cache
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava_MarkupCompile.lref
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Animaatioikkuna.baml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Lukuikkuna.baml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\MainWindow.baml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Matikkaikkuna.baml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Notepad.baml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Piirtoikkuna.baml
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.g.resources
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.Properties.Resources.resources
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.Properties.Resources.fi-FI.resources
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.GenerateResource.cache
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.CoreCompileInputs.cache
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\fi-FI\Kokoavatehtava.resources.dll
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.csproj.CopyComplete
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.exe
+G:\My Drive\Koulutehtävät\Käyttöliittymäohjelmointi\Kokoava\Kokoavatehtava\Kokoavatehtava\obj\Debug\Kokoavatehtava.pdb

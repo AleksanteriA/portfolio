@@ -1,0 +1,57 @@
+﻿<Window x:Class="Kokoavatehtava.Matikkaikkuna"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kokoavatehtava"
+        mc:Ignorable="d"
+        Title="Matikkaikkuna" Height="450" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Numeronäppäimet-->
+        <Button x:Name="nappi7" Grid.Row="2" Grid.Column="0" Click="nappi7_Click">7</Button>
+        <Button x:Name="nappi8" Grid.Row="2" Grid.Column="1" Click="nappi8_Click">8</Button>
+        <Button x:Name="nappi9" Grid.Row="2" Grid.Column="2" Click="nappi9_Click">9</Button>
+        <Button x:Name="nappi4" Grid.Row="3" Grid.Column="0" Click="nappi4_Click">4</Button>
+        <Button x:Name="nappi5" Grid.Row="3" Grid.Column="1" Click="nappi5_Click">5</Button>
+        <Button x:Name="nappi6" Grid.Row="3" Grid.Column="2" Click="nappi6_Click">6</Button>
+        <Button x:Name="nappi1" Grid.Row="4" Grid.Column="0" Click="nappi1_Click">1</Button>
+        <Button x:Name="nappi2" Grid.Row="4" Grid.Column="1" Click="nappi2_Click">2</Button>
+        <Button x:Name="nappi3" Grid.Row="4" Grid.Column="2" Click="nappi3_Click">3</Button>
+        <Button x:Name="nappi0" Grid.Row="5" Grid.Column="1" Click="nappi0_Click">0</Button>
+
+        <!-- Matemaattiset symbolit -->
+        <Button x:Name="nappiplus" Grid.Row="1" Grid.Column="3" Click="nappiplus_Click">+</Button>
+        <Button x:Name="nappimiinus" Grid.Row="2" Grid.Column="3" Click="nappimiinus_Click">-</Button>
+        <Button x:Name="nappikerto" Grid.Row="3" Grid.Column="3" Click="nappikerto_Click">*</Button>
+        <Button x:Name="nappijako" Grid.Row="4" Grid.Column="3" Click="nappijako_Click">/</Button>
+        <Button x:Name="nappiyhta" Grid.Row="5" Grid.Column="3" Click="nappiyhta_Click">=</Button>
+
+        <!-- Pyyhkiminen-->
+        <Button x:Name="nappice" Grid.Row="1" Grid.Column="0" Click="nappice_Click">CE</Button>
+        <Button x:Name="nappic" Grid.Row="1" Grid.Column="1" Click="nappic_Click">C</Button>
+        <Button x:Name="nappipyyhi" Grid.Row="1" Grid.Column="2" Content="&lt;=" Click="nappipyyhi_Click"/>
+
+        <!-- Positiivinen ja negatiivinen nappula-->
+        <Button x:Name="nappiplusmiinus" Grid.Row="5" Grid.Column="0" Click="nappiplusmiinus_Click">+/-</Button>
+
+        <!-- Display-ruutu-->
+        <TextBox x:Name="txtDisplay" IsReadOnly="True" TextAlignment="Right" VerticalAlignment="Bottom" FontSize="30" BorderThickness="0" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4">0</TextBox>
+
+    </Grid>
+</Window>

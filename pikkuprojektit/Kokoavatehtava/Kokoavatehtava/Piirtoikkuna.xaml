@@ -1,0 +1,25 @@
+﻿<Window x:Class="Kokoavatehtava.Piirtoikkuna"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kokoavatehtava"
+        mc:Ignorable="d"
+        Title="Piirtoikkuna" Height="450" Width="800">
+    <Grid>
+        <Label Content="Moi, täällä voi piirtää&#xD;&#xA;" HorizontalAlignment="Left" Margin="38,31,0,0" VerticalAlignment="Top" Height="57" Width="233"/>
+
+        <!--Canvas -->
+        <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="401" Margin="10,10,0,0" VerticalAlignment="Top" Width="647" Background="#FFF7EFEF" MouseLeftButtonDown="canvas_MouseLeftButtonDown" MouseMove="canvas_MouseMove">
+            <Canvas.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Reset" Click="Button_Click"/>
+                    <MenuItem Header="Undo" Click="Button_Click_1"/>
+                </ContextMenu>
+            </Canvas.ContextMenu>
+            <Ellipse x:Name="ellipse1" Fill="#FFF7EFEF" Height="100" Canvas.Left="75" Canvas.Top="99" Width="100"/>
+        </Canvas>
+        <Button Content="Reset" HorizontalAlignment="Left" Margin="699,82,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Undo" HorizontalAlignment="Left" Margin="699,169,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+    </Grid>
+</Window>
