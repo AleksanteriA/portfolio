@@ -7,4 +7,4 @@ Sisältää yksinkertaisen käyttöliittymän, joka tallentaa syötettyä tietoa
 Vaihtoehtona myös piirtää, "puhua", laskea, lukea tai avata Notepad.
 
 "rstree.js" on Runescapea varten tehty alkeellinen botti, joka hakkaa puuta.
-Puun löytäminen perustuu pikselien väreihin, mikäli haluttua väriä ei ole, pyöritetään kameraa.
+Puun löytäminen perustuu pikselien väreihin. Mikäli haluttua väriä ei ole, pyöritetään kameraa.
