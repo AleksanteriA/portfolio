@@ -41,15 +41,15 @@ console.log(d.toLocaleDateString());
     channel.send("<:firegator:793966741440954400>")
   });
   
-  // When you want to start it, use:
+
   scheduledMessage.start()
   scheduledMessage2.start()
-  // You could also make a command to pause and resume the job
 
 
 
 
-//Sigma grindset
+
+//Sigma grindset (keep in mind that these are random quotes from Internet.)
 client.on('message', msg => {
   //var forbiddenWords = ["sigma"]
   //for (var i = 0; i < forbiddenWords.length; i++) {
@@ -113,8 +113,6 @@ A wise man changes them to whoever he's trolling",
 //Hyvää yötä
 client.on('message', msg => {
     if (msg.content.toLowerCase() == "gn") {
-      // message.content contains a forbidden word;
-      // delete message, log, etc.
     const messages = 
     [
       "NUKU RAKKAANI...ÄLÄ HERÄÄ MIELIPAHAAN. TULKOON UNIHIEKKASET HILJAA SILMIIN. NUKU RAKKAANI..HERÄTTÄKÖÖN AAMUAURINKO SINUT UUTEEN PÄIVÄÄN. NUKU PARANTAVAA UNTA...",
