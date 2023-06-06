@@ -6,6 +6,6 @@ int main()
     printf("Enter two numbers ");
     scanf("%d%d", &a, &b);
     c=a*b;
-    prinf("%d*%d is = %d", a, b, c);
+    printf("%d*%d is = %d", a, b, c);
     return 0;
 }
