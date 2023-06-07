@@ -13,3 +13,5 @@ The program gives you a random letter, touching the screen gives you a new lette
 
 "rstree.js" is a simple bot made for Runescape, which cuts wood.
 The bot finds the wanted trees based on pixel colors. If there are none visible, the camera will turn automatically.
+
+My biggest Python project is hangman.
