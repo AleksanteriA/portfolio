@@ -7,8 +7,8 @@ Puun löytäminen perustuu pikselien väreihin. Mikäli haluttua väriä ei ole,
 
 # In English
 
-I did Avista for my dad because asked me to
-Avista is made with Kotlin/Java
+I did Avista for my dad because asked me to.
+Avista is made with Kotlin/Java.
 The program gives you a random letter, touching the screen gives you a new letter.
 
 "rstree.js" is a simple bot made for Runescape, which cuts wood.
