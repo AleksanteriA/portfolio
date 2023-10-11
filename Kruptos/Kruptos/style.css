@@ -1,0 +1,195 @@
+body {
+    position:relative;
+    max-width:100%;
+    min-height:100vh;
+    top: 100px;
+    margin:auto;
+    text-align:center;
+    background-image: url('PulseX_wallpaper.jpg');
+    display:flex;
+    flex-direction: column;
+    font-size: 1.2em;
+}
+footer{ 
+    min-height:50px; 
+    background:papayawhip; 
+    width:100%;
+    margin:0;
+    padding:0;
+    border:0;
+    position:relative;
+    bottom:0;
+  }
+
+.tausta{
+   /* background-color: gray;  /* Vaiha valkoseks */ 
+    width:80%;
+    margin:auto;
+}
+img {
+    /* max-width: 10%;
+    max-height:10%; */
+    padding:10px;
+  }
+  .tietokuva{
+    max-width: 80%;
+  }
+
+.rightside{
+    float:right;
+    max-width: 10%;
+    max-height: 10%;
+}
+  .leftside{
+      float:left;
+      max-width: 10%;
+      max-height: 10%;
+  }
+
+
+h1, h2, h3{
+    color:white;
+}
+p {
+    margin:0;
+    color:white;
+}
+.lp3, .lh3{
+    color:black;
+}
+
+p.vasenreuna{
+    color:black
+}
+a{
+    color:black;
+}
+ul {
+    list-style-type: none;
+}
+
+.menu-item{
+    text-align: center
+}
+.copyright{
+    text-align: center;
+    vertical-align:middle;
+    line-height: 20px;
+}
+
+
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 10%;
+    max-width: 10%;
+    text-align: center;
+}
+
+
+
+.laatikko{
+    position:relative;
+    display:flex;
+    justify-content: center; /* Tässä ja alemmassa oli aiemmin center */
+    align-items:center;
+    flex-wrap:wrap;
+    max-width: 80%;
+    margin:0 auto; /* Tärkeä */
+    /* background: green; */
+}
+
+.laatikko .kortti{
+    position: relative;
+    max-width:320px;
+    max-height:320px;
+    margin:15px;
+    overflow: hidden;
+    /* background: red; */
+}
+.laatikko .kortti .kuvalaatikko,
+.laatikko .kortti .contentBx
+{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+}
+.laatikko .kortti .kuvalaatikko img{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+.laatikko .kortti .contentBx::before
+{
+    content: '';
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background:#fff;
+    transform: scaleX(0);
+    transition: transform 0.5s ease-in-out;
+    transform-origin: right; /* Tässä näin */
+    transition-delay: 0s;
+}
+.laatikko .kortti:hover .contentBx::before
+{
+    transform:scaleX(1);
+    transition: transform 0.5s ease-in-out;
+    transform-origin:left;
+    transition-delay: 0s;
+}
+.laatikko .kortti .contentBx
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.laatikko .kortti .contentBx .content
+{
+    position: relative;
+    padding:30px;
+    z-index:1;
+    transition:0.5s;
+    transform: translateX(-300px);
+    transition-delay:0s;
+}
+.laatikko .kortti:hover .contentBx .content
+{
+    transform:translateX(0); /* px */
+    transition-delay:0.5s;
+
+}
+.laatikko .kortti .contentBx .content .hl3
+{
+    font-size: 1.3em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.laatikko .kortti .contentBx .content .pl3
+{
+    font-size:1em;
+    line-height:1.4em;
+    font-weight: 300;
+}
+
+
+  @media only screen and (max-width:500px){
+    body{
+        width:100%;
+        height:100%;
+        padding:0;
+        margin:0;
+        left:0;
+        /* background-image:unset; */
+    }
+}
+
